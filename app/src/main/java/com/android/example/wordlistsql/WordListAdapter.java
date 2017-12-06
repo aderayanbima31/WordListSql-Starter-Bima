@@ -27,15 +27,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * Implements a simple Adapter for a RecyclerView.
- * Demonstrates how to add a click handler for each item in the ViewHolder.
- */
+
 public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.WordViewHolder> {
 
-    /**
-     *  Custom view holder with a text view and two buttons.
-     */
+
     class WordViewHolder extends RecyclerView.ViewHolder {
         public final TextView wordItemView;
         Button delete_button;

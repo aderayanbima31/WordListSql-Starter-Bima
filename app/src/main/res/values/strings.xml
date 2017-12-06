@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright 2016 Google Inc.
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright 2016 Google Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -22,4 +21,7 @@ limitations under the License. -->
     <string name="button_edit">Edit</string>
     <string name="button_delete">Delete</string>
     <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="button_search">search</string>
+    <string name="search_results">search result</string>
+    <string name="no_result">no result</string>
 </resources>

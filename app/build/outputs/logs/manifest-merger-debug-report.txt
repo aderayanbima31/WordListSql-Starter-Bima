@@ -1,38 +1,41 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
 MERGED from [com.android.support:design:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f5d75bcd76de4910834f1d59c0581b27\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\d34ad74a3b47e9c3e19acf8f5723db07\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\95ad65b90128abaea17e82a4f0d07e9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\01ec96db25b283e82bbaa8f86dce7659\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\80ff3f1c92d0f1ff4900a8f38399e4ce\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\907d46164fd1d2444789683855ebd7ae\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:support-v4:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\d81626fceea556c81290ad2ead639583\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
-INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
 	package
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:18:5-46
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:17:5-46
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-36:12
 		INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:17:5-63
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:20:5-36:19
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:19:5-34:19
 MERGED from [com.android.support:design:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f5d75bcd76de4910834f1d59c0581b27\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f5d75bcd76de4910834f1d59c0581b27\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\d34ad74a3b47e9c3e19acf8f5723db07\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\d34ad74a3b47e9c3e19acf8f5723db07\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\01ec96db25b283e82bbaa8f86dce7659\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\01ec96db25b283e82bbaa8f86dce7659\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\80ff3f1c92d0f1ff4900a8f38399e4ce\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\80ff3f1c92d0f1ff4900a8f38399e4ce\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\907d46164fd1d2444789683855ebd7ae\AndroidManifest.xml:23:5-20
@@ -40,33 +43,37 @@ MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\adera\
 MERGED from [com.android.support:support-v4:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\d81626fceea556c81290ad2ead639583\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\d81626fceea556c81290ad2ead639583\AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:24:9-40
 activity#com.android.example.wordlistsql.MainActivity
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.android.example.wordlistsql.EditWordActivity
-ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-63
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:32:9-54
 	android:name
-		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:32:19-51
+activity#com.android.example.wordlistsql.SearchActivity
+ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml:33:19-49
 uses-sdk
 INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\src\main\AndroidManifest.xml
@@ -77,6 +84,8 @@ MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\adera\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\d34ad74a3b47e9c3e19acf8f5723db07\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\95ad65b90128abaea17e82a4f0d07e9e\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\95ad65b90128abaea17e82a4f0d07e9e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\01ec96db25b283e82bbaa8f86dce7659\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\01ec96db25b283e82bbaa8f86dce7659\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\80ff3f1c92d0f1ff4900a8f38399e4ce\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\80ff3f1c92d0f1ff4900a8f38399e4ce\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\adera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\907d46164fd1d2444789683855ebd7ae\AndroidManifest.xml:21:5-43

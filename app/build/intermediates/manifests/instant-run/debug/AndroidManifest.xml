@@ -39,6 +39,7 @@ limitations under the License.
             </intent-filter>
         </activity>
         <activity android:name="com.android.example.wordlistsql.EditWordActivity" />
+        <activity android:name="com.android.example.wordlistsql.SearchActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

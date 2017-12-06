@@ -5,15 +5,15 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="FIELD_TYPE_CHANGE"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1512538924715"
+    timestamp="1512580756999"
     token="1642514513272875764"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1084" />
+        duration="450" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -22,7 +22,7 @@
         duration="89" />
     <task
         name="verifier"
-        duration="33" />
+        duration="12" />
 
     <artifact
         location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -30,16 +30,34 @@
 
     <build
         build-mode="FULL"
-        timestamp="1512538069062"
+        timestamp="1512580301162"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -48,31 +66,22 @@
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
+            location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512580640728"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_TYPE_CHANGE"
-        timestamp="1512538924715"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512580756999"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\adera\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
