@@ -126,12 +126,7 @@ public class WordListOpenHelper extends SQLiteOpenHelper {
         return DatabaseUtils.queryNumEntries(mReadableDB, WORD_LIST_TABLE);
     }
 
-    /**
-     * Adds a single word row/entry to the database.
-     *
-     * @param  word New word.
-     * @return The id of the inserted word.
-     */
+
     public long insert(String word) {
         long newId = 0;
         ContentValues values = new ContentValues();
@@ -145,13 +140,7 @@ public class WordListOpenHelper extends SQLiteOpenHelper {
         return newId;
     }
 
-    /**
-     * Updates the word with the supplied id to the supplied value.
-     *
-     * @param id Id of the word to update.
-     * @param word The new value of the word.
-     * @return The number of rows affected or -1 of nothing was updated.
-     */
+
     public int update(int id, String word) {
         int mNumberOfRowsUpdated = -1;
         try {
@@ -160,22 +149,16 @@ public class WordListOpenHelper extends SQLiteOpenHelper {
             values.put(KEY_WORD, word);
 
             mNumberOfRowsUpdated = mWritableDB.update(WORD_LIST_TABLE, //table to change
-                    values, // new values to insert
-                    KEY_ID + " = ?", // selection criteria for row (in this case, the _id column)
-                    new String[]{String.valueOf(id)}); //selection args; the actual value of the id
-
+                    values,
+                    KEY_ID + " = ?",
+                    new String[]{String.valueOf(id)});
         } catch (Exception e) {
             Log.d (TAG, "UPDATE EXCEPTION! " + e.getMessage());
         }
         return mNumberOfRowsUpdated;
     }
 
-    /**
-     * Deletes one entry identified by its id.
-     *
-     * @param id ID of the entry to delete.
-     * @return The number of rows deleted. Since we are deleting by id, this should be 0 or 1.
-     */
+
     public int delete(int id) {
         int deleted = 0;
         try {
@@ -187,15 +170,7 @@ public class WordListOpenHelper extends SQLiteOpenHelper {
         return deleted;
     }
 
-    /**
-     * Called when a database needs to be upgraded. The most basic version of this method drops
-     * the tables, and then recreates them. All data is lost, which is why for a production app,
-     * you want to back up your data first. If this method fails, changes are rolled back.
-     *
-     * @param db
-     * @param oldVersion
-     * @param newVersion
-     */
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         Log.w(WordListOpenHelper.class.getName(),

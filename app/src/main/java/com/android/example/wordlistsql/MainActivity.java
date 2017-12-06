@@ -26,12 +26,7 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.Toast;
 
-/**
- * Implements a RecyclerView that displays a list of words from a SQL database.
- * - Clicking the fab button opens a second activity to add a word to the database.
- * - Clicking the Edit button opens an activity to edit the current word in the database.
- * - Clicking the Delete button deletes the current word from the database.
- */
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
